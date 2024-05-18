@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConvertidorTemp</string>
+
+    <string-array name="spinner">
+        <item>Centigrados</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+    </string-array>
+
+    <string name="caja_res">0</string>
+    <string name="caja_num">0</string>
+    <string name="btn_calc">CONVERTIR</string>
+
+    <string name="lbl_C">Temperatura a convertir </string>
+    <string name="lbl_A">A</string>
+    <string name="lbl_igual">=</string>
+
+</resources>
